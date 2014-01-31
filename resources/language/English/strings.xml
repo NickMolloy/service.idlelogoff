@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- General Settings -->
+	<string id="32000">General</string>
+	<string id="32003">Idle time before logout, in minutes</string>
+	<string id="32004">Enable logoff if library is being scanned</string>
+</strings>
